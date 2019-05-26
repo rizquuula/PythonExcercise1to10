@@ -12,5 +12,3 @@ for i in (y):       #Versi manual input
 
 print (tuple(data))     #making tuple
 print (data)
-
-
